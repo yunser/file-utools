@@ -1,0 +1,15 @@
+{
+    "main": "./dist/index.html",
+    "preload": "./dist/main.js",
+    "logo": "logo.png",
+    "features": [
+        {
+            "code": "文件",
+            "explain": "加载文件",
+            "cmds": [
+                "文件",
+                "文件夹"
+            ]
+        }
+    ]
+}
